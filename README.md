@@ -1,7 +1,7 @@
 # Mikrokontrollerid ja robootika projektide videod
 
 Nimekiri 12 YouTube videost, mis on manustatud githubi readme faili sisse.  
-Asenda videote ID-d enda omadega.
+Asenda tekst, videote ID-d ja nimed enda omadega.
 
 ---
 
