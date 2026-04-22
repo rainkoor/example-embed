@@ -6,7 +6,7 @@ Asenda videote ID-d enda omadega.
 ---
 
 ## Projekt 1 "Get to now your tools"
-[![Video Title 1](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Video Title 1](https://img.youtube.com/vi/aFHFTDEY_rQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## 2. Video Title 2
 [![Video Title 2](https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_2)
